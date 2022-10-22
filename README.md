@@ -1,7 +1,4 @@
 # f2wa45kommineni
-<br>
-# My name is Nithish
-<br>
-# I am from India
-<br>
-# Im doing my masters in applied computer science
+## My name is Nithish
+## I am from India
+## Im doing my masters in applied computer science
